@@ -21,8 +21,8 @@ To run this project, you'll need:
 ## Installation:
 1) Clone the repository.
    ```
-   git clone https://github.com/asmijit/visual-jarvis.git
-   cd visual-jarvis
+   git clone https://github.com/asmijit/Visual-Jarvis.git
+   cd Visual-Jarvis
    ```
 2) Install the required packages:
    ```
