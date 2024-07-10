@@ -1,0 +1,1 @@
+opencv-python mediapipe Pillow streamlit google-generative-ai numpy
