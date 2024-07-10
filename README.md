@@ -1,6 +1,6 @@
 # Visual-Jarvis
 
-Visual Jarvis is an innovative AI project that allows users to draw in the air using fixed hand gestures, with the drawings then processed by Google's Gemini-1.5-flash LLM to produce various results. The project includes a Streamlit web application for ease of use.
+Visual Jarvis is an AI project that allows users to draw in the air using fixed hand gestures, with the drawings then processed by Google's Gemini-1.5-flash LLM to produce various results. The project includes a Streamlit web application for ease of use.
 
 ## Features:
 * **Air Drawing**: Use hand gestures to draw in the air using your video feed.
